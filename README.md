@@ -6,14 +6,14 @@
 ## Table of contents
 * [About](#about)
 * [Data Description](#data-description)
-* [Methodology](#ethodology)
+* [Methodology](#methodology)
 * [Code Sample](#code-sample)
 * [Result](#result)
 
 ## About
 
-This exercise was the part of Machine Learning coursework at The University of Texas at Dallas
-The goal here was to understand various machine learning classification algorithms.
+This exercise was the part of Machine Learning coursework at The University of Texas at Dallas.
+The goal here was to understand various machine learning classification algorithms and also compare various functions/parameters for the algorithms (e.g. kernels in SVM, pruning in decision trees, etc.)
 
 ## Data Description
 
@@ -24,7 +24,8 @@ in order to access if the product (bank term deposit) would be (or not) subscrib
 
 ## Methodology
 
-* Used various machine learning models including
+* Used various machine learning models including Linear and kernelized SVM, Logistic Regression, Decision Trees, Random Forest, KNN 
+* To improvise accuracy bagging, boostng and PCa was implemented
 
 ## Code Sample
 Few snippet from the notebook:
