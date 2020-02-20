@@ -1,4 +1,4 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
+[![LinkedIn][linkedin-shield]]
 # Bank-Marketing-Data-Set
 
