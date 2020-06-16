@@ -52,7 +52,6 @@ print(classification_report(data_test_y,pred_test))
 
 
 ````
-
 ## Result
 The training and testing accuracy of various models: 
 
